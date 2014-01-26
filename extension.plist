@@ -6,7 +6,7 @@
    <array>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string>skrynkovskyy.airomo-url-search</string>
+       <string>com.airomo.safari-extn</string>
        <key>Developer Identifier</key>
        <string>PES3TCW4UH</string>
        <key>CFBundleVersion</key>
