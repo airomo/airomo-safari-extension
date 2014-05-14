@@ -16,18 +16,6 @@
        <key>URL</key>
        <string>https://github.com/airomo/airomo-safari-extension/raw/master/airomo.safariextz</string>
      </dict>
-     <dict>
-       <key>CFBundleIdentifier</key>
-       <string>com.airomo.safari-extn</string>
-       <key>Developer Identifier</key>
-       <string>PES3TCW4UH</string>
-       <key>CFBundleVersion</key>
-       <string>1</string>
-       <key>CFBundleShortVersionString</key>
-       <string>1.1</string>
-       <key>URL</key>
-       <string>https://github.com/airomo/airomo-safari-extension/raw/master/airomo.safariextz</string>
-     </dict>
    </array>
 </dict>
 </plist>
